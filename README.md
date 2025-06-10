@@ -4,6 +4,8 @@ We have trained a recurrent neural network using real motion data captured by a 
 
 This work has been submitted to Optics Express under the title: "Human Activity Recognition at Kilometer Range using Single-Photon LiDAR", and is currently under review. This page will be updated when the work gets published.
 
+The videos below show the results of the 'mixed' activity where the 2 persons perform all the 6 activities in a non pre-defined manner.
+
 https://github.com/user-attachments/assets/7b4697f0-e125-4ae5-aab7-d5dd942e6489
 
 https://github.com/user-attachments/assets/4b68ff83-cab3-4742-9f0a-46ab429c468b
